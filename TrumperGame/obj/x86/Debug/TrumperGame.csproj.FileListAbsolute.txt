@@ -1,0 +1,153 @@
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\TrumperGame.exe
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\TrumperGame.pdb
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\obj\x86\Debug\TrumperGame.exe
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\obj\x86\Debug\TrumperGame.pdb
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\obj\x86\Debug\TrumperGame.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\character.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\gradient.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY_d1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY_d2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY_d3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\blueMask.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\greenMask.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\redMask.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\BLANK.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\gradient2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\LevelText2.txt
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\LevelText.txt
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\LevelText3.txt
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\LevelText4.txt
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\menuEnd.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\MainScreen.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\game_music.wav
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum1.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum2.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum3.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum4.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum5.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum6.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum7.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum8.png
+C:\Users\Eric\Documents\Coding\C#\TrumperGame\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum9.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\obj\x86\Debug\TrumperGame.exe
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\obj\x86\Debug\TrumperGame.pdb
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\BLANK.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\blueMask.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\character.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\game_music.wav
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\gradient.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\gradient2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\greenMask.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\LevelText.txt
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\LevelText2.txt
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\LevelText3.txt
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\LevelText4.txt
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\MainScreen.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\menuEnd.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum4.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum5.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum6.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum7.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum8.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\numbers\pixNum9.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe1\pipe1_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe2\pipe2_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe3\pipe3_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe4\pipe4_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe5\pipe5_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe6\pipe6_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe7\pipe7_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe8\pipe8_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipe9\pipe9_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeX\pipeX_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY_d1.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY_d2.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\pipeY\pipeY_d3.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\redMask.png
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\TrumperGame.exe
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\TrumperGame.pdb
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\obj\x86\Debug\TrumperGame.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\CS Projects\Gamma-Jamma-master\TrumperGame\bin\WindowsGL\Debug\Content\instructionsMenu.png
